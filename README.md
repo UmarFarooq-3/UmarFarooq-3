@@ -15,7 +15,7 @@
 - **Databases**: MySQL
 - **Web Development**: Full-Stack Development, RESTful APIs, Responsive Design
 - **Tools**: Git, Maven, Gradle
-- **IDEs**: Spring Tool Suite 4 (STS4), Eclipse, Visual Studio Code
+- **IDEs**: Spring Tool Suite 4 (STS4), Eclipse, Visual Studio Code, NetBeans, DevC++ , pycharm 
 
 <h3 align="left">🛠 Language and tools</h3>
 
