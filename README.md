@@ -10,7 +10,7 @@
 💻 **Seasoned Java Spring Boot Developer**
 
 🌟 **Skills & Technologies:**
-- **Languages**: Java, HTML, CSS, JavaScript, python, C++
+- **Languages**: Java, HTML, CSS, JavaScript, React.js, python, C++
 - **Frameworks**: Spring Boot, Hibernate
 - **Databases**: MySQL
 - **Web Development**: Full-Stack Development, RESTful APIs, Responsive Design
@@ -34,10 +34,13 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript logo"  />
   <img width="20" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" alt="React logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++ logo"  />
 </div>
+
 
 ### 
 
