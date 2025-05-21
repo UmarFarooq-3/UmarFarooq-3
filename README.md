@@ -10,10 +10,10 @@
 💻 **Seasoned Java Spring Boot Developer**
 
 🌟 **Skills & Technologies:**
-- **Languages**: Java, HTML, CSS, JavaScript, React.js, python, C++
-- **Frameworks**: Spring Boot, Hibernate
-- **Databases**: MySQL
-- **Web Development**: Full-Stack Development, RESTful APIs, Responsive Design
+- **Languages**: Java, HTML, CSS, JavaScript, python
+- **Frameworks**: Spring Boot, Hibernate, Node.js, Angular, React
+- **Databases**: MySQL, MongoDB
+- **Web Development**: Full-Stack Development, RESTful APIs, microservices, Responsive Design
 - **Tools**: Git, Maven, Gradle
 - **IDEs**: Spring Tool Suite 4 (STS4), Eclipse, Visual Studio Code, NetBeans, DevC++ , pycharm 
 
