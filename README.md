@@ -45,17 +45,13 @@
 ### 
 
 
-
-
-
-
 ### 
 
 ### 
 
 
 🔧 **Expertise**:
-- Building scalable, high-performance monolithic applications
+- Building scalable, high-performance monolithic and microservice applications
 - Designing and developing RESTful APIs
 - Requirement engineering and translating complex requirements into solutions
 
@@ -73,5 +69,5 @@
 💬 **Let's Connect:**
 - **Email**: itxxumeer@gmail.com
 - **LinkedIn**: www.linkedin.com/in/umar-farooq-886579310
-- **Portfolio**: [Your Portfolio Website](https://yourportfolio.com)
+
 
