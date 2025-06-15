@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi there! I'm Umar Farooq</h1>
 
-<p align="center">I'm a software engineer with expertise in building scalable, high-performance monolithic and microservice applications and designing RESTful APIs.</p>
+<p align="center">I'm a software engineer with expertise in building scalable, high-performance Full stack applications.</p>
 
 <hr>
 
